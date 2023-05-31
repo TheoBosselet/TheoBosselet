@@ -1,5 +1,5 @@
 <br>
-
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/tu2uAc1" data-context="false" ><a href="//imgur.com/a/tu2uAc1"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8">
 # About me
 
 I'm a student at **[Polytech Lille](https://https://www.polytech-lille.fr/formation/8-specialites/systemes-embarques/)** in France. My favorite fields are software development and electronic. Currently looking for an internship in embedded systems for 3 years.
