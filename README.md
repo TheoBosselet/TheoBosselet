@@ -67,12 +67,12 @@ I'm a student at **[Polytech Lille](https://https://www.polytech-lille.fr/format
 
 # 📂 Projects
 
-## [🛡 Cle USB *(2023)*](https://github.com/)
+## [🛡 Cle USB *(2023)*](https://github.com/TheoBosselet/KeyUSB-2023)
 
 Cle
 
 <p align="center">
-	<a href="https://github.com/"><img src="https://i.imgur.com/" width="500"></a>
+	<a href="https://github.com/TheoBosselet/KeyUSB-2023/"><img src="https://i.imgur.com/a/BstvGts/" width="500"></a>
 </p>
 
 <br>
