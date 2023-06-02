@@ -64,7 +64,11 @@ I'm a student at **[Polytech Lille](https://https://www.polytech-lille.fr/format
 <br>
 
 # 📂 Projects
-## [ Comp *(2023)*] https://github.com/TheoBosselet/Compression-Codage-de-Huffman
+## [ Huffman : Compression sans pertes *(2023)*](https://github.com/TheoBosselet/Compression-Codage-de-Huffman)
+<p align="center">
+	<a href="https://github.com/TheoBosselet/KeyUSB-2023/"><img src="https://imgur.com/a/tu2uAc1" width="500"></a>
+</p>
+<br>
 ## [ Cle USB *(2023)*](https://github.com/TheoBosselet/KeyUSB-2023)
 
 <p align="center">
