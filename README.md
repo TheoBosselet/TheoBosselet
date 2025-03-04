@@ -1,6 +1,6 @@
 # About me
 
-I'm a student at **[Polytech Lille](https://https://www.polytech-lille.fr/formation/8-specialites/systemes-embarques/)** in France. My favorite fields are software development and electronic. Currently looking for an internship in embedded systems for 3 years.
+I'm a student at **[Polytech Lille](https://https://www.polytech-lille.fr/formation/8-specialites/systemes-embarques/)** in France. My favorite fields are software development and electronic. 
 
 <br>
 
@@ -30,7 +30,6 @@ I'm a student at **[Polytech Lille](https://https://www.polytech-lille.fr/format
 			<td align="center"><a href="https://en.wikipedia.org/wiki/Unix">Unix</a></td>
 			<td align="center"><a href="https://en.wikipedia.org/wiki/CSS">CSS</a></td>
 			<td align="center"></td>
-			<td align="center"><a href="https://nodejs.org/en/">NodeJS</a></td>
 			<td align="center"><a href="https://www.php.net/">PHP</a></td>
 			<td align="center"></td>
 		</tr>
